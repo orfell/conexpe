@@ -1,0 +1,9 @@
+PUBLICACIÓN EN GITHUB PAGES
+Suba todo el contenido de conexpe a la raíz del repositorio: index.html, assets, Guia_Claude_CONEXPE.docx y Material_Taller.zip. Active Pages con main y / (root).
+URL: https://orfell.github.io/conexpe/
+
+Ambos logos están incluidos en assets. La landing no depende de enlaces externos para mostrarlos.
+
+La guía actualizada contiene los seis temas, casos antes de herramientas, prompts CTLF y bloques de colores. Incluye aplicaciones en CONEXPE y evaluación final.
+
+Actualización: marca de agua tenue de Claude; agenda Asistente IA como orientador; Tema 5 dedicado a Word, sin Excel. Guía de 19 páginas.
